@@ -7,7 +7,7 @@ See their BMI result, with their weight classification and healthy weight range
 View the optimal layout for the interface depending on their device's screen size
 See hover and focus states for all interactive elements on the page
 
-![screenshot](/C:\Users\Hadiza Asabe Umar\Desktop\ibm-check\weight-calculator\src\assets\screenshot.png?raw=true "Optional Title")
+![screenshot](\src\assets\screenshot.png?raw=true "Optional Title")
 ##
 Built with
 HTML
