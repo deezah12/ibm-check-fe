@@ -7,7 +7,7 @@ See their BMI result, with their weight classification and healthy weight range
 View the optimal layout for the interface depending on their device's screen size
 See hover and focus states for all interactive elements on the page
 
-![screenshot](\src\assets\screenshot.png?raw=true "Optional Title")
+![screenshot](https://res.cloudinary.com/dxvo9aude/image/upload/v1717589827/mxly5ncfryxwzynpykod.png?raw=true "Optional Title")
 ##
 Built with
 HTML
